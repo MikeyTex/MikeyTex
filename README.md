@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MikeyTex
-- 👀 I’m interested in 3D printed prosthetic hand design and testing.
+- 👀 I’m a prosthetic hand user interested in 3D printed prosthetic hand design and testing.
 - 🌱 I’m currently learning OpenSCAD
-- 💞️ I’m looking to collaborate on inovative, creative and usable prosthetic hand designs with an enphasis on artistic design.
+- 💞️ I've designed a number of mechanical components for mechanically operated prostetic hands and am looking to collaborate on the asthetics and artistic design of these devices.
 - 📫 How to reach me ...
 
 <!---
